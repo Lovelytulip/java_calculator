@@ -26,13 +26,13 @@ public class Main {
     }
 }
 
-    private static int substract(int a, int b) {
-        return a - b;
-    }
-
-    private static int divide(int a, int b) {
-        return a/b;
-    }
+//    private static int substract(int a, int b) {
+//        return a - b;
+//    }
+//
+//    private static int divide(int a, int b) {
+//        return a/b;
+//    }
 }
 
 
